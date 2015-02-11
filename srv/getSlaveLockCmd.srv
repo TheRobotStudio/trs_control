@@ -1,0 +1,4 @@
+#slaveNb from 1 to 5
+int32 slaveNb
+---
+trs_msgs/MotorCmdSet motorCmdSet
